@@ -1,3 +1,4 @@
 duffrec.txt
-log/
 *.orig 
+*.*.orig
+log/
