@@ -13,3 +13,7 @@ Some extra content
 Weee
 
 ## How To Contribute
+
+
+### Copyright
+2015 RP training
