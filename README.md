@@ -18,4 +18,5 @@ Weee
 
 
 ### Copyright
-2015 RP training
+2015 RP training - all rights reserved
+
